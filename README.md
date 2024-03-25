@@ -9,11 +9,11 @@ Apocalytic style first person shooter
 
 ## 24-03-25
 
-![Capture1](https://github.com/kcasl/2024-GDWC-Summer-Season/assets/93076513/6d7a9a4b-2e05-48a9-b
+![Capture1](https://github.com/kcasl/2024-GDWC-Summer-Season/assets/93076513/6d7a9a4b-2e05-48a9-bb1e-69951b996004)
 
 ![Capture2](https://github.com/kcasl/2024-GDWC-Summer-Season/assets/93076513/094bcf54-3d51-4972-9bfb-342916bd9e52)
 
 ![Capture3](https://github.com/kcasl/2024-GDWC-Summer-Season/assets/93076513/8939c7b4-704d-4ec6-b251-07ef37aedb53)
-b1e-69951b996004)
+
 
 ---
